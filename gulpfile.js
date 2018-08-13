@@ -1,8 +1,8 @@
 'use strict';
 
 var gulp = require('gulp');
-var litecoreTasks = require('litecore-build');
+var mangacoreTasks = require('mangacore-build');
 
-litecoreTasks('message');
+mangacoreTasks('message');
 
 gulp.task('default', ['lint', 'coverage']);
