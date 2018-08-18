@@ -1,6 +1,6 @@
 {
   "name": "mangacore-message",
-  "version": "1.0.5",
+  "version": "1.0.3",
   "description": "Mangacoin Messages for Mangacore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
